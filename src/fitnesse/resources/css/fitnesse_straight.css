@@ -30,6 +30,15 @@ header {
 	width: 90px;
 	height: 90px;
 }
+
+#art_niche1 {
+	float: right;
+	margin-right: 6em;
+	background-image: url("../images/CorporateLogo.png");
+	width: 100px;
+	height: 60px;
+}
+
 #art_niche span {
 	display: none;
 }

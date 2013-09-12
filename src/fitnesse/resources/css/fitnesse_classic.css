@@ -29,6 +29,15 @@ header {
 	height: 90px;
 	margin: 0 68px 0 4px;
 }
+
+#art_niche1 {
+	float: right;
+	margin-right: 6em;
+	background-image: url("../images/CorporateLogo.png");
+	width: 100px;
+	height: 60px;
+}
+
 #art_niche span {
 	display: none;
 }
